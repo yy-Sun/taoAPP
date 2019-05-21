@@ -1,0 +1,5 @@
+taoAPP/__pycache__/
+venv/
+testAppium34.py
+.idea/
+*.png

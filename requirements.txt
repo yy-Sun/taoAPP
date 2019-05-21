@@ -1,0 +1,5 @@
+Appium-Python-Client==0.42
+pip==19.0.3
+selenium==3.141.0
+setuptools==40.8.0
+urllib3==1.25.2
